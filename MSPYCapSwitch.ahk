@@ -1,3 +1,5 @@
+Menu, Tray, Icon, tray.ico
+
 CapsLock::
 	KeyWait,% A_ThisHotkey,T0.5
 	If ErrorLevel {
