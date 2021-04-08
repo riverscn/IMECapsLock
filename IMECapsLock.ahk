@@ -1,4 +1,3 @@
-Menu, Tray, Icon, tray.ico
 Menu, Tray, noStandard
 Menu, Tray, Add, Start with Windows, ToggleStartup
 Menu, Tray, Add, Exit, Tray_Exit
